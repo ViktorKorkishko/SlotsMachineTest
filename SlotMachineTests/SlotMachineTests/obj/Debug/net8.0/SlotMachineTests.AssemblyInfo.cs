@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlotMachineTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+422e0d0db10f6827c319adf1e73ad99e305a5f81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+820d33a722b22c2e3d24e229fbf5e51b93f4688b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlotMachineTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlotMachineTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
