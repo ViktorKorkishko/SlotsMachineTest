@@ -28,7 +28,7 @@
             return result;
         }
         
-        public static int GetBigSymbolsCount(int[] reel, int bigSymbolId)
+        public static int GetDistinctBigSymbolsCountInSpot(int[] reel, int bigSymbolId)
         {
             int bigSymbolsCount = 0;
             

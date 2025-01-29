@@ -1,0 +1,15 @@
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\SlotMachineTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\SlotMachineTests.AssemblyInfoInputs.cache
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\SlotMachineTests.AssemblyInfo.cs
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\SlotMachineTests.csproj.CoreCompileInputs.cache
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\bin\Debug\net8.0\SlotMachineTests.exe
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\bin\Debug\net8.0\SlotMachineTests.deps.json
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\bin\Debug\net8.0\SlotMachineTests.runtimeconfig.json
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\bin\Debug\net8.0\SlotMachineTests.dll
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\bin\Debug\net8.0\SlotMachineTests.pdb
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\SlotMachineTests.dll
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\refint\SlotMachineTests.dll
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\SlotMachineTests.pdb
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\SlotMachineTests.genruntimeconfig.cache
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\ref\SlotMachineTests.dll
+C:\Work\Personal\SlotsMachineTest\SlotMachineTests\SlotMachineTests\obj\Debug\net8.0\SlotMachineTests.sourcelink.json

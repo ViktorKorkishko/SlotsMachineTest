@@ -35,10 +35,10 @@
             var reel3 = new[] {  0, 88, 88, 88,  2 };
             var reel4 = new[] { 88,  1,  4,  6,  2 };
             
-            Console.WriteLine(SlotOperations.GetBigSymbolsCount(reel1, bigSymbolId)); // 2
-            Console.WriteLine(SlotOperations.GetBigSymbolsCount(reel2, bigSymbolId)); // 1
-            Console.WriteLine(SlotOperations.GetBigSymbolsCount(reel3, bigSymbolId)); // 1
-            Console.WriteLine(SlotOperations.GetBigSymbolsCount(reel4, bigSymbolId)); // 0
+            Console.WriteLine(SlotOperations.GetDistinctBigSymbolsCountInSpot(reel1, bigSymbolId)); // 2
+            Console.WriteLine(SlotOperations.GetDistinctBigSymbolsCountInSpot(reel2, bigSymbolId)); // 1
+            Console.WriteLine(SlotOperations.GetDistinctBigSymbolsCountInSpot(reel3, bigSymbolId)); // 1
+            Console.WriteLine(SlotOperations.GetDistinctBigSymbolsCountInSpot(reel4, bigSymbolId)); // 0
             
             var bigSymbolParts = new[] { "head", "body", "legs" };
             var parts1 = SlotOperations.DefineBigSymbolsParts(reel1, bigSymbolId, bigSymbolParts);
@@ -51,13 +51,11 @@
             var reel7 = new[] {  0, 88, 88, 88, 88,  2 };
             var reel8 = new[] { 88,  1,  4,  6,  2, 88 };
             
-            bigSymbolParts = new[] { "head", "body1", "body2", "legs" };
+            bigSymbolParts = ["head", "body1", "body2", "legs"];
             var parts5 = SlotOperations.DefineBigSymbolsParts(reel5, bigSymbolId, bigSymbolParts);
             var parts6 = SlotOperations.DefineBigSymbolsParts(reel6, bigSymbolId, bigSymbolParts);
             var parts7 = SlotOperations.DefineBigSymbolsParts(reel7, bigSymbolId, bigSymbolParts);
             var parts8 = SlotOperations.DefineBigSymbolsParts(reel8, bigSymbolId, bigSymbolParts);
-            
-            
         }
     }
 }
